@@ -1,0 +1,1184 @@
+[
+  {
+    "cell": 10,
+    "function": "_embedded_first_trade_dataframe",
+    "source_sha256": "0c9aee2366fff9ca026faaba42d329d9f138301671676abb3f5a6c574434d837",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_jd",
+    "source_sha256": "c50c2364a41ad9a33d792f32438285395369e17a206a3554d54db96c179c341a",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_norm",
+    "source_sha256": "41566700784579b2de5858b9956279b8f8e3c3a8d8abb76219724de6ba711da2",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "angular_distance",
+    "source_sha256": "e2c3623fc3c882ad53ea4b4069d56edcab53bde3de681654cdebe9d428b838cc",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "aspect_distance",
+    "source_sha256": "f2704b772aac41e10622abd18b7fb4561b4aebe6707be9ca173d1232b6905705",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_planet",
+    "source_sha256": "f97ac41d9492a15735624f3b762738e465479584677c9da3f155796f319294a7",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "astro_snapshot",
+    "source_sha256": "ce1dc36448bb1b3a760fd19ecf9f30292cd18e9801fb3ecedf19d80c3cdb206a",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_snapshot_offset",
+    "source_sha256": "d1836bab45ec9e75c0ca1eda4794c32312eb2472c766617464b6f24e98e0062d",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "detect_cosmic_events",
+    "source_sha256": "d316f1476ebbba1d50a26151ab3917d49bcf966c6860264019fffe45cdaf28d9",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "load_first_trade_database",
+    "source_sha256": "3efb80e61843096cf4db53db5ba4405d5657af8e4d91da8c80bd348dd171848d",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_normalize_hhmm",
+    "source_sha256": "89d4fad8a973eb5b2738d64ee0876ae886a826d429a70c281e559c1cc7760c20",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "lookup_first_trade_record",
+    "source_sha256": "89c1c482517a0318ec274f853524869434a26a3ace01f6d62b69f54b2da5e3f2",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "first_trade_datetime_utc",
+    "source_sha256": "ed55093397e6173b69b39e2f6fca3a6c6a64f6c192175623d94ae484a483ba72",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "astro_snapshot_datetime",
+    "source_sha256": "10576b0078b20d52c4ecf4b0bbf21ce1d79fe8abc84a0029b9faafeee7307a5a",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "natal_chart_from_record",
+    "source_sha256": "e4763761a2b1a904bd664ad142226234c5f4136919c49a814168e8974a7a4580",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "natal_transit_events_record",
+    "source_sha256": "71b822ddac717d07cf100f17ec5aa5b033f57994ce96619c72da42209af2b6d9",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "natal_longitudes",
+    "source_sha256": "e6755922500def08acab9c0c91cde618aacef2fcf82f0194b07c9f3a5d2846cf",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "natal_transit_events",
+    "source_sha256": "54d00c3b574d79d9a90167a8c1a28b96b984896781d6e57d9c8e737eae5128c4",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "detect_declination_parallels",
+    "source_sha256": "f225b40382632430b6a80ccaf1738d738f936825c75b668a18c58eb1890a2990",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "quantum_levels",
+    "source_sha256": "a08e60db483fcbeb89af0da1b98c04484cd117ef72c8d400d11f28cfa1cbcad5",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "fetch_history",
+    "source_sha256": "a3ddca79aa7fe8c66cd82d2b4a4ff79c30e3db6d1171ab0c6b44defbae454d86",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_tsi",
+    "source_sha256": "c1ee1a5d12dfd6554f15b0fe4436723b74188cd7e497a0147557855f53df54f4",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_stoch",
+    "source_sha256": "d0c60e57179f483b23abe83e276003d3f436e462bc52dcd7f18c9ad19d38158d",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "technical_snapshot",
+    "source_sha256": "807683648ce87ca41138d95208b240da9055867a215d63e99901501fc1bda7df",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "get_sp500_tickers",
+    "source_sha256": "3e44f8e6f37c7c04fbd2a0a31fb2a306cb0a4b428999de1ca7aca649dddfe920",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "zodiac_position",
+    "source_sha256": "ff3811d4c3b2c2b6fb968a6c5faa7b6eb7e67ac8a97c321f44325f988f0899d1",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "lunar_phase_detail",
+    "source_sha256": "e4de3c9a44e019b1de297a00041b63735457190a86864d801bc62fa074a00f29",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_lunar_aspect_class",
+    "source_sha256": "f43c82db51ec270e61ff91a956ed52c674944be77ebb52599ad99e0ddbed2ced",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "transiting_moon_aspects",
+    "source_sha256": "3eba3f064cc803843aad83001de44c14919be947d39702852cbef0ea84caad38",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "moon_to_natal_events",
+    "source_sha256": "0bd8d3e5bd94127361aa4b5f16f3b3ddebc838607d6951b806c40dea16762c36",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "lunar_declination_detail",
+    "source_sha256": "a9ae3e841fe94c980d00139ebbd9000abc13bc5eb68d729db293d251eac435dc",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "lunar_confluence",
+    "source_sha256": "ed8c9f6a7f88f3d19aba49c28e8dc39e00f1e5a3110fec8196eb5f1b80f4a00f",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "zodiac_position",
+    "source_sha256": "ff3811d4c3b2c2b6fb968a6c5faa7b6eb7e67ac8a97c321f44325f988f0899d1",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "lunar_phase_detail",
+    "source_sha256": "e4de3c9a44e019b1de297a00041b63735457190a86864d801bc62fa074a00f29",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_lunar_aspect_class",
+    "source_sha256": "f43c82db51ec270e61ff91a956ed52c674944be77ebb52599ad99e0ddbed2ced",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "transiting_moon_aspects",
+    "source_sha256": "3eba3f064cc803843aad83001de44c14919be947d39702852cbef0ea84caad38",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "moon_to_natal_events",
+    "source_sha256": "0bd8d3e5bd94127361aa4b5f16f3b3ddebc838607d6951b806c40dea16762c36",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "lunar_declination_detail",
+    "source_sha256": "a9ae3e841fe94c980d00139ebbd9000abc13bc5eb68d729db293d251eac435dc",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "lunar_confluence",
+    "source_sha256": "ed8c9f6a7f88f3d19aba49c28e8dc39e00f1e5a3110fec8196eb5f1b80f4a00f",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "infer_stock_first_trade",
+    "source_sha256": "60487f2ad0d99ca5c9c1aed2a44762b86276eeb95ab7e4ee9282fd14b72f8627",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_event_bucket",
+    "source_sha256": "c6cdf03c229dd3c7ee12675a72d1029c2f83acf23758b927e76c4b37b2c6fd06",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "grouped_timing_score",
+    "source_sha256": "c898a7de86a169234ce3deb37dea1c5b94095f12bed047d861df5c264d199181",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_technical_strength",
+    "source_sha256": "b6d13713208eda948775c970eeea52192a8603b9f54a861e1e038b853ce8b837",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_status_for",
+    "source_sha256": "32be9333569762465da659f7e17294db245b7dfec3bff72caeef767d43954fee",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_quality_label",
+    "source_sha256": "2d1652b76779631319b1a19a0d9cc4ba30ad5958827836ecffcc98accd079a07",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "_build_reason_sections",
+    "source_sha256": "b54a9ab12d81d0d75b3c7db981b0b79d1cc72c30ec9c7db5e0954f3e7a93a936",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "score_idea",
+    "source_sha256": "6ccd3acf1e20d20d3c9af7876313e4e55863ef14aed1e591de0d5b1b4db3f474",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "scan_commodities",
+    "source_sha256": "583be0c501163b6f0efd77a9517e5694394d7b2ee394520036a3cfeaddd69100",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "scan_stocks",
+    "source_sha256": "6d03cb63185831c074dd288d746491326bf44d0b0b83d0df0de5672b1c7b175f",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "summary_dataframe",
+    "source_sha256": "796ebd7b3b45795075e97f3f51635b7880a14152618580436b119c4a1529386e",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 13,
+    "function": "format_idea",
+    "source_sha256": "573d593fc8853577e82f7e56f28236c180f441993b53920c09bc60851e253c75",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "_sign_of",
+    "source_sha256": "4c72d338859201489e237b26bfbe9958862868549a88bc246978293419ce69c0",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "_chart_from_first_trade",
+    "source_sha256": "d7f542b8fc676f61f5559cef02715c93f502f346a24423256e638e7c9bbebb0c",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "_chart_node",
+    "source_sha256": "168043fc5433895f4927d6e73bb6cc07a131fce8d5f6c964912351bff73001f4",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "meridian_natal_signature",
+    "source_sha256": "27f2e49b5f1b5c474c54a705430d23721a045695adb04cedfa30fd2a547040a4",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "_snapshot_at",
+    "source_sha256": "0f28ee72cb7650e1d7ef2c6c72fbdecb6fb0e2c2e8449fc92f45aeaf7b517ba1",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "_contact_state",
+    "source_sha256": "424f833de79fdf9002558c67f69b7022f789814fc2c190daa39cc7b0106a9dbf",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "meridian_transit_contacts",
+    "source_sha256": "fe322861a4d245e974c41c2d78dd4d1d098f920b28373ecad3276b659ea77a88",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "meridian_station_eclipse_timing",
+    "source_sha256": "fe52ede4cd12fb51c45a620307e06553b6e69cdfc0a50385a06b5b30d51b0d77",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "meridian_analysis",
+    "source_sha256": "7bd259194a946c2df57899e91669661644ad6382ea9ee1159ce5988a9f33c166",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "_best_aspect",
+    "source_sha256": "dc69d1b518cf467915f4069736c65530661ea0b68bba8a75fb6f332253569d2d",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "_unordered_pair",
+    "source_sha256": "d4c2f1922eefe59fbbf910871debc1fb1c60691ac971e13f3323fc2ac6872e6e",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "_meridian_pair_direction",
+    "source_sha256": "837e03b68a9f1db4b30d2d434e6c1f93237e81364e60736e899924dbee7d4fe8",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "meridian_execution_polarity",
+    "source_sha256": "01b63401b2d3ee4a3e5d6331da52d5ba08ef14d88913634f6a3e38a6f014a491",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "_execution_hit_weight",
+    "source_sha256": "2c0d898c82284faf88f94cac83e3ff77489457b69876774284b93270e3f876b7",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "execution_timing_v8",
+    "source_sha256": "aedf78890c48a61b924aba945e6cfbb2dbcd5778b7fe84ea91b004f8bca008fd",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "_apply_meridian_to_idea",
+    "source_sha256": "80e26bc427f998316104123b49b8ad7a896efafbf42768856536818007732dfa",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "score_idea",
+    "source_sha256": "4c7cadd7a47d74ee58d77b9e5451d41aca513593aa2e8bc2b9def009d493d006",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "scan_commodities",
+    "source_sha256": "1d94d7127b829882d4316b1ffe28427856ebd55fb29f86f667ecc3c4469ffe68",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "scan_stocks",
+    "source_sha256": "6fc05b1164922024cc982c3680c7bf71d9047009e04a694e69ac43209596b1b4",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "summary_dataframe",
+    "source_sha256": "dbd685d9019fe6cc55cc566f98dba95b4d172b0e8daa0165dc0bd03f8797fe13",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 19,
+    "function": "format_idea",
+    "source_sha256": "0b8c53c967a66de1c2bd3c894febfe39fcf4de97392e5d084fa47a6cdadd82eb",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "_clamp",
+    "source_sha256": "0c71eb2c68fa9f02b4666cfa3b775028c91b803a2412413d29bf01b4d64cacf7",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "_aspect_error_at",
+    "source_sha256": "c56fa0326a95f06a7ae0df71060c37be3ce449d0f62bd621b8647ea7f03847af",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "_estimate_exact_time",
+    "source_sha256": "622bed529e565b870103b7c58d4ea2831c5cf2517fd218be8e55d0f1273414cd",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "_execution_window",
+    "source_sha256": "3af319fc58c896cccad6ccf5abb098d058c4e0b3e0e20fae1282bb402f9ebf84",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "execution_timing_v8",
+    "source_sha256": "57e6e509df39e77ac6ff4fdd8d64eb0cddf776bde412e1846ea5976e6fdfe686",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "_lunar_summary",
+    "source_sha256": "47489676fe63a698f50d2d0d956e53e223efa07ddb83509504129d6aaf5f09d1",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "_directional_bias",
+    "source_sha256": "b99d13b32189f30975cbd11c6c886f5ada9021389c73e2a593e4b4598e9b7807",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "_timing_strength",
+    "source_sha256": "35b317b7aaf9a2da177339e1c10d860adb89e6c34b6f4e383ca0fc4c8aed13be",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "_evidence_confidence",
+    "source_sha256": "18ee8ffe6bb073c5e569f502b8df85f852732b8dc27b36a1942744575090116b",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "_decision_layer",
+    "source_sha256": "7a98e229be62f5b063f8c150913d229b7bf5f4fe5c3aad0ed153644147de6974",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "_enrich_v83",
+    "source_sha256": "b79208990918f599aa7326cc89eeb709310864c26893233d1d8235a416d8bd04",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "scan_commodities",
+    "source_sha256": "b77224a2a6bfb780868978e88675f084435f4f77b731e9b22e9e8836d4e61b46",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "scan_stocks",
+    "source_sha256": "3893188b0a97bc3de7daed7d9c0f6acb0040a40892b0593eade6be65bef3006c",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "summary_dataframe",
+    "source_sha256": "55d73d96e36cea063ed415c6bd279ca2c24213e3bb0efb8242665d310c552170",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 21,
+    "function": "format_idea",
+    "source_sha256": "dd7b8d979db9d5bae9c474fdb5e5350633a0a9aff8560cad67b3d8e9159fd54f",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 23,
+    "function": "show_detail",
+    "source_sha256": "274825a84f309dedfe71332fc94eff1af9f00dc0441c366645a4b9c27d212dfd",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 23,
+    "function": "_validated_market_mode",
+    "source_sha256": "4d9b458c2a48c1e1caca57fc0d6353f3a0ef61f1ea0431a9aa800e52429c94a1",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 26,
+    "function": "v82_scan_state",
+    "source_sha256": "abfa1694073358828a6f8546ecbf8cf217f378b3926545c1c5240a69ec905792",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 27,
+    "function": "_safe_filename",
+    "source_sha256": "cbd9b2de42942b0c924bdc8b8112f79516463229dd95c99f5167437bc3680875",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 27,
+    "function": "_report_title",
+    "source_sha256": "6b162caf5d5a72bf66fef8ae89c9a20005c99846a7a66c9cda22bad522d6b81c",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 27,
+    "function": "_status_order",
+    "source_sha256": "38e7021b3afa5e1a6bd90413ffccdaeccd9c016af4f68d6e25c1242942b49b89",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 27,
+    "function": "_all_report_ideas",
+    "source_sha256": "530537cdb8182285434d62ec8a4290c18f34fe380436cb0019012b9b21ae9842",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 27,
+    "function": "_summary_rows",
+    "source_sha256": "3b9bc382db7e3cc856bc6ef6f14d2d943a043a7cd10814cd1cab12cb728d5b08",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 27,
+    "function": "make_html_report",
+    "source_sha256": "0f57a7fc8bb29c22ed54f9d71debcd1c0fadb1f9227536257f9e6a0165d23d9a",
+    "report_path_adapted": true
+  },
+  {
+    "cell": 27,
+    "function": "make_pdf_report",
+    "source_sha256": "7425d3d68c878e84088d1bc27571c350404a08f73f3baecbd61dc779a127babe",
+    "report_path_adapted": true
+  },
+  {
+    "cell": 27,
+    "function": "make_csv_report",
+    "source_sha256": "24ed48b494a4925a76484878fc138edd7e833bfe00bfebd76e9fe94f7d32c560",
+    "report_path_adapted": true
+  },
+  {
+    "cell": 29,
+    "function": "_summary_rows",
+    "source_sha256": "ae7a9f4394ee836eb005331d63372d76a6da42772e417923e5caa84e01670849",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 29,
+    "function": "make_html_report",
+    "source_sha256": "f3b1a0e66269d66142d9125a4f7c28745ee24f87fe99c90981f8baaf2d400f1f",
+    "report_path_adapted": true
+  },
+  {
+    "cell": 29,
+    "function": "make_pdf_report",
+    "source_sha256": "bdd384554ef632ca13c33396e0268e7a4da67c6ff6314f8a73f87c8c452f0030",
+    "report_path_adapted": true
+  },
+  {
+    "cell": 31,
+    "function": "_v84_parse_window",
+    "source_sha256": "f551c5a7ee5df1e264723428362eec3e2541ff6479ccd2ada7f22b9c170958a0",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "_v84_aspect_sentence",
+    "source_sha256": "3221d4e48bbd8a12f45da568e6edd8934c96b47ed68f87b696f5e3e967ca5577",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "_v84_polarity_from_exact",
+    "source_sha256": "07afad3e76991aa3d8682350d38f3e1ef26f9049acf0c8bc820a2b69cbf46aa5",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "execution_timing_v8",
+    "source_sha256": "1ea3d8a99a9d112be49dc8f21cabacc1302ab1a759ce1f5cdbec0621565b256f",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "_lunar_summary",
+    "source_sha256": "8b515d1a8255fb9a1cbab3b32e8502d741be1f61b96f510b1cd5164c0665c101",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "_v84_astrological_agreement",
+    "source_sha256": "ad9ab162f738ac61a669d0aebade6f34b8a157866c69d0de5b84d220df4161e9",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "_decision_layer",
+    "source_sha256": "9e50b1ef0128ecf601008879e802a579abeac519c1c5cb316c3316832b113a88",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "_enrich_v83",
+    "source_sha256": "10ea1c7e835d40df5c75e1bf0e67cfbbd9c9da89f07b4469ed7e17e6168c7abc",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "scan_commodities",
+    "source_sha256": "dd9f9a1c91a739fd18ef0e92dbe7761f3c9b34dae374bd88ebabbe397fddd125",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "scan_stocks",
+    "source_sha256": "7b60b979d9d69f72f22322994ef11abdcaf9441ab886254788cd166788b0947f",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "_summary_rows",
+    "source_sha256": "d52f62598f97011302d973011ef93004e349cf5c428169edc1899af84bf2e921",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 31,
+    "function": "make_html_report",
+    "source_sha256": "6be707a08e2790a864e9fa8102ce6abc6b3c0686d1df17c4dfcd1acab925663f",
+    "report_path_adapted": true
+  },
+  {
+    "cell": 31,
+    "function": "make_pdf_report",
+    "source_sha256": "7a9bccc90ed1eec2ccb9aa950225416657ae7dc3c13b3c103bee2763770b876f",
+    "report_path_adapted": true
+  },
+  {
+    "cell": 41,
+    "function": "load_mcwhirter_incorporations",
+    "source_sha256": "e89cd5351a01e82f615e0a851c914217cc34231871ebfa5d7db3cfd7eb79f1d5",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_mcw_clamp",
+    "source_sha256": "bd8e27869781c251caab2698cefa74bb7c7663e4d4179a2b207ff96efd4df712",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_mcw_sign",
+    "source_sha256": "5b3f6287c6510a49cb59b0d3951b08b7ff4cc1f53597a68150ddb3417ad06a1c",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_mcw_signed_for_bias",
+    "source_sha256": "e9bc2f577dc1abcbfab73c14bca6feef19af602ee94460ffbb789f01f4bb1379",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_mcw_best_aspect",
+    "source_sha256": "bd2933c040666e513a1a3b77bb140872ea4039dd750619ae42a3a613836718f6",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_mcw_soft_hard",
+    "source_sha256": "42398c930edf67b8101404f728ff3749ac3ae6fd5ed7ad52b7372ad3bbf9e614",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_mcw_node_snapshot",
+    "source_sha256": "c63261e77162e7a8f6f551864242da2b8ae75f49e864cacdfd03d24f6e3452fe",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "mcw_chapter1_terrain",
+    "source_sha256": "db412032436dc125c2a3e9f5fc371cc5a4096da4f7e2c02ed22dcd2b7cb1366e",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "mcw_chapter2_analogue",
+    "source_sha256": "3ab5eef4094eab83f29f1fe7013569c75669a8491de6289dd23f9a8a20e7e912",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_mcw_nyse_chart",
+    "source_sha256": "6a677763215ee3018fc1525b1142164665c18f6a89dde3978c86f1e53ff89844",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_mcw_previous_new_moon",
+    "source_sha256": "d25dbe57e922b14cb33ec4aa165069d17b953a04cb93a29c1a9e33cf41f01240",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "mcw_chapter3_market",
+    "source_sha256": "3e0d14d7c62a6a99506cf2980fadab3d01cd13da7e26c373a23d7264ec5526ce",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_mcw_first_trade_record",
+    "source_sha256": "2895d18b13f85d6cd2a74db53748549c9895d7da4657b9abc4396493136c838c",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_mcw_first_trade_chart",
+    "source_sha256": "ee633fef4640d7c02d90498aa506711b87fdc72c2ba457e0e5e6324ab93e7f51",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "mcw_chapter4_stock",
+    "source_sha256": "ba8fbb48962b79dc99f43216d1d5b2ceae8fe7eebf4d705d75cce654303c9ac8",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "mcw_reference_scores",
+    "source_sha256": "736bb775faf75c0d8e1b784f703fe1fe19c04e32bf53d8f8594a9a9d49fcdcfe",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "mcw_appendix_context",
+    "source_sha256": "b8d70827c35cef396e67879dffe7481a4761c8e2ec1d657d3456e349b86355a2",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "mcwhirter_stack",
+    "source_sha256": "a330653270beb55cdb6bf071be48fd7cce5b2643f5bbd6759764fe78ea750bd5",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "enrich_v9",
+    "source_sha256": "71f38f1ef67a3415e05e7a91fb007e7a4c87b29dbd6f36341ce10912b342870a",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "scan_commodities",
+    "source_sha256": "d99f02e1477e379ab64d626b1e923c3e810a9d822a98306e57382fffbeea06d1",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "scan_stocks",
+    "source_sha256": "64e2c582c7c7c51175bb5502fdda42fb4c7cb6c934206ab1a1f4341cc7db1e27",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_market_confluence_target",
+    "source_sha256": "94bc3f2cbcca092501135bf3fc537e324c1f536fc13ae8ff4a96407e06e24b94",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "_trade_plan_metrics",
+    "source_sha256": "4748737d51a2119c987b2c0293f66897c0c24f2b295e370f8632e5e14a3edae8",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "summary_dataframe",
+    "source_sha256": "21b4e4dc8209e5d2c6b70e333fe320701b81f680e6667e9863eae04aeaa66f28",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 41,
+    "function": "show_detail",
+    "source_sha256": "fdd1b24ebc2dcfd6d7075f0457220f294ddb7c561d6fac29502591e98ec34cbc",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 43,
+    "function": "mcwhirter_first_trade_coverage",
+    "source_sha256": "946a9172c145b9d58ef488d0cc05ee0c0483e6972a34eba0aed6c3b46eb316f7",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 44,
+    "function": "_report_title",
+    "source_sha256": "6cf4bc0ff38a2a9bf74626d04a67810ddba738dffac844dba32d2562cd87b212",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 44,
+    "function": "_all_report_ideas",
+    "source_sha256": "d6b5c22adb48f1c8f29e48deec707b23783668bcefde2c60f8a3ec1c7b7e2de8",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 44,
+    "function": "make_csv_report",
+    "source_sha256": "4f3df4251f9a455cd182a6b7d51de8f6c71681f2ba20216060f06aa35eba2645",
+    "report_path_adapted": true
+  },
+  {
+    "cell": 44,
+    "function": "make_pdf_report",
+    "source_sha256": "ac7150a18c5c3bb8daea1344d2d77508b05213458c14f915805be5c151f4c231",
+    "report_path_adapted": true
+  },
+  {
+    "cell": 47,
+    "function": "_v10_embedded_first_trade_df",
+    "source_sha256": "1da3831b35295eea899e1470bbcf2facb09e2b83a268949a883708661f94796b",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_embedded_calendar_df",
+    "source_sha256": "a49567b526276a35835e4fec7a244ac7eb390fffaeab55a9fefce6d441e0c57c",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "load_first_trade_database",
+    "source_sha256": "0e586efa37c00f8a4e0b30af5042a93135271f2fa8cfad0d4738abdf181f3652",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "lookup_first_trade_record",
+    "source_sha256": "9751fe5fe4d58e6a7dc4eef02e302579f31177c07d690219fc1c1864d70cb80e",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "first_trade_datetime_utc",
+    "source_sha256": "f35e0670dc1949f268fef90a3763908d9bb7b092b5a50e508cbbb7c63f3841c9",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "natal_chart_from_record",
+    "source_sha256": "2053f75e27df07dce423ae1cb44d378f227cf338b6ba470844fd30451fdb2e94",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_planet_lon",
+    "source_sha256": "49e2a08159f03eeeb84a3438bf6cff62228c5d4e9b6d8c4585b92aa0c59dd45f",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_aspect_error",
+    "source_sha256": "47b4c50de74b7aeb40813e890441bfe8b6a86f1a882b1a40644f3634415f5d2b",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_golden_min",
+    "source_sha256": "1b9ebeb87767ddd80ee2415548641778f669e8f4347b9a185dacd4b3cb5378e7",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_fmt_session_time",
+    "source_sha256": "ae53d9ccf7b60995616fbce34a1efbd14cf7fc78e5c69378c95f64facbf4533c",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "full_lunar_session_clock",
+    "source_sha256": "1d2dc7d1e265bbebba4a6bd6b44c5416fd2896f5b1e56f743461da30d49f046e",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "enrich_v9",
+    "source_sha256": "8aa9a815b7e5a6d8a0ba5e4bc4f593885ee9283f708b942583f0e0260eeb74f1",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_jd",
+    "source_sha256": "b086d5ec8086697e3a2af6b824e681bf8f70a17a5f0eeaca086846efea77c66a",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_state",
+    "source_sha256": "4f88a6b322398026f82da6445f9a6a5a958670a193f6d3e06e677ca7dc535842",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_signed",
+    "source_sha256": "68dea93852e28cae63b918395e55ca0e5719c54dff4067d5af758b4691743be9",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_root",
+    "source_sha256": "daa7c2a1b43cfe54714c7d2ee69b9753d97dc6950a24bbccac19be0d5a766c11",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_longitude_hits",
+    "source_sha256": "3d50ed4abf2eee2b6aca127c12d382e6698b72f29bbf9802b05802397384167e",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_declination_hits",
+    "source_sha256": "31c2af463a0c84791a81ccfdff41f0ba2220032e00b7702ccc9115c4e012c18c",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "_v10_retro_intervals",
+    "source_sha256": "defa60665561fc30c9290a0d9b41edbc7841bbb52421f71d2d3fea3ae0d68885",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "generate_bucholtz_reversal_calendar",
+    "source_sha256": "3bb0403ad8fac28548535f7da5bf068e91b67f18a805933dc68e9f44075d1f2b",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "v10_bucholtz_calendar_context",
+    "source_sha256": "30491bd3d4749d458cf6cd54dbcac3ab54e3a4cb86d891521eb3157ed77a40e2",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 47,
+    "function": "summary_dataframe",
+    "source_sha256": "9cb1354945c9e85bc06a2679ec4f1d6d83ceab2d44e93e984338bbf3bcc8e843",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 49,
+    "function": "_v101_session_key",
+    "source_sha256": "bb667d4ecaa1fbf69c1224de20d6f76c2f2690d2ef32b52b8e63452aa3b67e93",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 49,
+    "function": "_v101_build_session_cache",
+    "source_sha256": "d6cdbb0082e2ef09ddf125bc8ad02b5d83b185c8e706294790af7cdf8686b1ae",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 49,
+    "function": "_v101_interp_lon",
+    "source_sha256": "b2079150765f99997dc25e8ec0bc9ef91a105218d4852994725390f7bebc53ea",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 49,
+    "function": "_v101_extract_hits_from_cache",
+    "source_sha256": "243c9fdff7118f0fdd518beb7f50531c5d855d8b8c34d43ad889fab4ef935e3e",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 49,
+    "function": "full_lunar_session_clock_cached",
+    "source_sha256": "b7ba3a7d09a70aea5a9290b1173a3ea722fab0210cb7c569938f53031f5d11e9",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 49,
+    "function": "_v101_selected_tickers_from_results",
+    "source_sha256": "72edc4509d8a9d229d71724d54ca1fc5170c21f1ef945abc9610be70179d155c",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 49,
+    "function": "compute_lunar_clocks_for_selected_results",
+    "source_sha256": "cb85bec0c0d046b9f4a17ec95c02e0e6c48484cffdeb2c479374c1b57478bebf",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 49,
+    "function": "enrich_v9",
+    "source_sha256": "038d18aa5c7fc445274117915be1bb3c1892f0658729a2f32d37729a438648b4",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 49,
+    "function": "make_pdf_report",
+    "source_sha256": "3776e343d7d71fee4bd1a7985456d7bd34ff2e27849b99128e88f12c3eafc394",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 49,
+    "function": "make_csv_report",
+    "source_sha256": "b8ff7b94cb8f420039fd93b8397857a5925ec4fd58b5a9c96217221421c94858",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_previous_trading_day",
+    "source_sha256": "f2f6894a246810c68b04e83356de30f79d9ce2696a50f7c0f3e5da52610344a5",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_window",
+    "source_sha256": "f9f32bc0acc4f729ac143e29e364abf6a49f925407a8a3af7319a8bfba3acdc6",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_period",
+    "source_sha256": "46f7e15226b98f9cc5fc60f9596525cd8131a912d819e8635400dda9f3b2888b",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_build_cache",
+    "source_sha256": "f20642fa58f56233d287a389bbe5f22edab54c82da2e0828508477420f57000f",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_interp",
+    "source_sha256": "03913d225f753de5b6223350cd53e8ddb7b6af1e1460d25e0b686bab7d59ceac",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_err",
+    "source_sha256": "314460c364d11dc46100d73e58812585b499ca114efe99d12eb33be2ee38168f",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_minimise",
+    "source_sha256": "5310697e10fa438902641dc82796bc074ad1fb231f093a1fbeefcff41a6837a7",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_lifecycle",
+    "source_sha256": "735fd483efcbce41468bc03e0f8a7e30711faa80f513e4336fe82718d958e34a",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_shared_events",
+    "source_sha256": "6095213cad88e0e61e6ec2b949653329d54d5aa3836450fbc4e74e91ea12a007",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_natal_events",
+    "source_sha256": "131d12335889ae005f68ed47fc2e328d6415dfad8fcdcc6b7a402198f56fcb92",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_primary_timing_plan",
+    "source_sha256": "33d302e0790b746e2815f83986e5021030047343c4a45ace6ff562e9012a6b53",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "compute_timing_continuum_for_selected_results",
+    "source_sha256": "5f231b82989c8c3c55c9a9ae9df75631c9065a1d8c468b5f6b6d9f22dbfcc7be",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "_v102_rows",
+    "source_sha256": "8d0aec8eec51058803f9812d3e0434c5b14ea8fd325eb947355e86cba2e4b373",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "v102_add_report_sections",
+    "source_sha256": "59b6f2ec9ca5dcea38dd07c91fb08e90dc61bc7a91a6bc23b8549abd9e2aaca6",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "make_pdf_report",
+    "source_sha256": "d2e03dd67941d02e10f73d606e75d0e629e9a011172d989e3ce00da5bf102963",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 53,
+    "function": "make_csv_report",
+    "source_sha256": "7aa42e38a0ca4ba8c0eb6b1e87f7bc82090b071cb1eea8872de92af7569b85e4",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 55,
+    "function": "validate_selected_first_trade_records",
+    "source_sha256": "71ccafc0794a7dcf9c880b96bd9ab3e711a3c810d53284fcb49f809546762fc5",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 59,
+    "function": "make_pdf_report",
+    "source_sha256": "51d9f9a7a2c27cff86c903a57fb49d26cb0cc9efd519b4fe13873b4857412fe5",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 59,
+    "function": "make_csv_report",
+    "source_sha256": "08d81f83eeff6148d5c1586f55ffad2c5f4bfadd836b247b0bf4f97d90b85350",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 60,
+    "function": "v1022_timing_benchmark",
+    "source_sha256": "b37883ded646a37f2b68c1e1cb80d5109790e8db38bdbc5ff305601d2d420758",
+    "report_path_adapted": false
+  },
+  {
+    "cell": 63,
+    "function": "v1023_profile_selected_run",
+    "source_sha256": "d4aea9d057b9cba955e9ead04e5d0ad4dacd90acf8038693dab89fda23edda9a",
+    "report_path_adapted": false
+  }
+]
